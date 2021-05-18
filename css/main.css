@@ -292,6 +292,7 @@ section {
     margin-left: -50%;
     margin-top: 25%;
     width: 100%;
+    z-index: 1;
   }
   .portfolio img {
     float: right;
